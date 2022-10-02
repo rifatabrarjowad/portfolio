@@ -10,10 +10,28 @@
   padding: 0px;
   margin: 0px;
   font-family: "Poppins", sans-serif;
+  color: white;
 }
 body {
-  background-image: url("../img/bg.png") !important; /* The image used */
+  background-image: url("../img/bg.jpg") !important; /* The image used */
 
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+}
+.action a,
+.action button {
+  color: white;
+  padding: 18px 25px;
+  border: 2px solid #ff8206;
+  margin-right: 20px;
+  font-size: 20px;
+}
+.get {
+  background-color: #ff8206;
 }
