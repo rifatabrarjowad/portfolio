@@ -2,14 +2,14 @@
     <div class="container ">
         <div class="row">
             <h1 style="
-                color: #200959;
+                color: white;
                 text-align: center;
                 font-size: 50px;
                 font-weight: bold;
                 text-decoration: underline;
                 text-decoration-color: #ff8206;
               ">
-                About Me
+                Blogs
             </h1>
 
             <div class="col-md-12">
