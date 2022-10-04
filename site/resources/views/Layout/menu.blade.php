@@ -1,10 +1,6 @@
-@php
-$siteInfo =\App\Models\MoreModel::find(1);
-@endphp
-
 <nav class="navbar fixed-top nav-before navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="{{url('/')}}"><img style="width:80px !important" class="nav-logo"
-            src="http://admin.afirahisoft.xyz/uploads/mores/{{$siteInfo->more_des}}" /></a>
+            src="http://admin.afirahisoft.xyz/uploads/mores/" /></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
         aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -25,11 +21,9 @@ $siteInfo =\App\Models\MoreModel::find(1);
             </li>
 
         </ul>
-        @php
-        $siteInfo =\App\Models\MoreModel::find(4);
-        @endphp
+
         <form class="form-inline my-2 my-lg-0">
-            <a href="{{$siteInfo->more_des}}" class="normal-btn btn">ফলো</a>
+            <a href="#" class="normal-btn btn">ফলো</a>
         </form>
     </div>
 </nav>
