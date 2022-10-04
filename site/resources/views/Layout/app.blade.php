@@ -17,8 +17,10 @@
 
 <body>
     @include('Layout.menu');
+    <main style="margin-top:90px !important">
+        @yield('content')
+    </main>
 
-    @yield('content')
 
 
     <script type="text/javascript" src="{{asset('js/app.js')}}"></script>

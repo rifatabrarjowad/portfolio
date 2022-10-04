@@ -1,29 +1,30 @@
-<nav class="navbar fixed-top nav-before navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="{{url('/')}}"><img style="width:80px !important" class="nav-logo"
-            src="http://admin.afirahisoft.xyz/uploads/mores/" /></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
-        aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul class="navbar-nav mr-auto mt-3 mt-lg-0">
-            <li class="nav-item active">
-                <a class="nav-link nav-font" href="{{url('/')}}">হোম </a>
-            </li>
-
-
-            <li class="nav-item">
-                <a class="nav-link nav-font" href="{{url('/site/allBlog')}}">ব্লগ</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link nav-font" href="{{url('/site/contactTo')}}">যোগাযোগ</a>
-            </li>
-
-        </ul>
-
-        <form class="form-inline my-2 my-lg-0">
-            <a href="#" class="normal-btn btn">ফলো</a>
-        </form>
-    </div>
-</nav>
+<header>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="./img/logo.png" alt="logo" width="50" height="50" /></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Skills</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
