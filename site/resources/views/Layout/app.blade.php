@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>Afirahi Soft</title>
+    <title>RIFAT ABRAR JOWAD || FULL STACK SOFTWARE DEVELOPER || AI EXPERT</title>
 
     <link href="http://admin.afirahisoft.xyz/uploads/mores/" rel="icon" type="image/png" />
     <meta name="description" content="afirrahi soft " />
