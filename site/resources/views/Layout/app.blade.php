@@ -6,7 +6,7 @@
     <title>RIFAT ABRAR JOWAD || FULL STACK SOFTWARE DEVELOPER || AI EXPERT</title>
 
     <link href="http://admin.afirahisoft.xyz/uploads/mores/" rel="icon" type="image/png" />
-    <meta name="description" content="afirrahi soft " />
+    <meta name="description" content="RIFAT ABRAR JOWAD" />
     <meta name="keywords" content="Read blog in bangla" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap"
