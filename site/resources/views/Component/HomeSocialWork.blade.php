@@ -1,58 +1,31 @@
 <section id="socialWork">
     <div class="container">
+        <!-- Gallery -->
         <div class="row">
-            <h1 style="
-                color: white;
-                text-align: center;
-                font-size: 50px;
-                font-weight: bold;
-                text-decoration: underline;
-                text-decoration-color: #ff8206;
-              ">
-                Social Work
-            </h1>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body">
-                        <h2 class="card-title" style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
-                </div>
+            <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
+
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape" />
             </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body text-center">
-                        <h2 class="card-title" style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
-                </div>
+
+            <div class="col-lg-4 mb-4 mb-lg-0">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Mountains in the Clouds" />
+
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
             </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body text-center">
-                        <h2 class="card-title " style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text text-start" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
-                </div>
+
+            <div class="col-lg-4 mb-4 mb-lg-0">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Waves at Sea" />
+
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
+                    class="w-100 shadow-1-strong rounded mb-4" alt="Yosemite National Park" />
             </div>
         </div>
+        <!-- Gallery -->
     </div>
 </section>
