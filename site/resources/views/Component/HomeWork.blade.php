@@ -1,4 +1,4 @@
-<section id="blog">
+<section id="work">
     <div class="container">
         <div class="row">
             <h1 style="
