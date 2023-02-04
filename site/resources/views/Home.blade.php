@@ -4,6 +4,7 @@
 @include('Component.HomeAbout')
 @include('Component.HomeBlog')
 @include('Component.HomeWork')
+@include('Component.HomeAchive')
 @include('Component.HomeSocialWork')
 
 @endsection

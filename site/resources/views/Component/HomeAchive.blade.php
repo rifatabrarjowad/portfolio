@@ -9,48 +9,74 @@
                 text-decoration: underline;
                 text-decoration-color: #ff8206;
               ">
-                Work
+                Achievements
             </h1>
+
             <div class="col-md-4">
                 <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body">
-                        <h2 class="card-title" style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
+                    <a id="achPost" style=" text-decoration: none;"
+                        href="https://www.hackerrank.com/certificates/e8bb2483618f" target="_blank">
+                        <div class="card-body text-center">
+                            <h2 class="card-title" style=" color:#ff8206;">Python (Basic)</h2>
+                            <p class="card-text" style=" color: black;">
+                                It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and
+                                Iteration, Modularity, Objects and Types and Classes
+                            </p>
+
+                        </div>
+                    </a>
+
+
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body text-center">
-                        <h2 class="card-title" style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
+                    <a id="achPost" style=" text-decoration: none;"
+                        href="https://www.hackerrank.com/certificates/e8bb2483618f" target="_blank">
+                        <div class="card-body text-center">
+                            <h2 class="card-title" style=" color:#ff8206;">Research Camp</h2>
+                            <p class="card-text" style=" color: black;">
+                                I was a participant in Jagadish Chandra Bose Science camp
+                            </p>
+
+                        </div>
+                    </a>
+
+
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="./img/photo.jpg" class="card-img-top" alt="..." width="100%" height="300px">
-                    <div class="card-body text-center">
-                        <h2 class="card-title " style=" color:#ff8206;">Blog Site</h2>
-                        <p class="card-text text-start" style=" color: black;">
-                            This is a longer card with supporting text below as a natural
-                            lead-in to additional content. This content is a little bit
-                            longer.
-                        </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
-                    </div>
+                    <a id="achPost" style=" text-decoration: none;"
+                        href="https://www.hackerrank.com/certificates/e8bb2483618f" target="_blank">
+                        <div class="card-body text-center">
+                            <h2 class="card-title" style=" color:#ff8206;">Python (Basic)</h2>
+                            <p class="card-text" style=" color: black;">
+                                It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and
+                                Iteration, Modularity, Objects and Types and Classes
+                            </p>
+
+                        </div>
+                    </a>
+
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <a id="achPost" style=" text-decoration: none;"
+                        href="https://www.hackerrank.com/certificates/e8bb2483618f" target="_blank">
+                        <div class="card-body text-center">
+                            <h2 class="card-title" style=" color:#ff8206;">Python (Basic)</h2>
+                            <p class="card-text" style=" color: black;">
+                                It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and
+                                Iteration, Modularity, Objects and Types and Classes
+                            </p>
+
+                        </div>
+                    </a>
+
+
                 </div>
             </div>
         </div>
