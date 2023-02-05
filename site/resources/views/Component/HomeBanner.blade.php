@@ -14,11 +14,11 @@
                         <span style="color: #ff8206">Rifat Abrar Jowad</span>
                     </h1>
                     <p>
-                        Assalamualikum! Subhanallahi Wa Bihamdihi,Subhan Allahil Azeem
+                        Assalamualikum! Subhanallahi Wa Bihamdihi, Subhan Allahil Azeem
                     </p>
                     <div class="action">
                         <a href="#" class="btn get">Get My CV</a>
-                        <button class="btn">About Me</button>
+                        <a href="#Contact" class="btn">Follow Me</a>
                     </div>
                 </div>
             </div>

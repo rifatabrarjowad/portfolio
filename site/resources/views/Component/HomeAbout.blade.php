@@ -1,4 +1,7 @@
 <section id="about">
+    <br>
+    <br>
+    <br>
     <div class="container shadow-lg p-3 mb-5 bg-body rounded">
         <div class="row">
             <h1 style="
@@ -23,23 +26,20 @@
                     font-weight: 600;
                     text-align: center;
                   ">
-                        I believe that, when people are learning, they are growing.
-                        I’m on a quest to make excellence a part of those lives that I
-                        come in contact with. For me, every day is an opportunity to
-                        make the world that I live and work in a better, more creative
-                        and more compassionate place. I’m a lifelong optimist who
-                        believes that no mountain is too high to climb, every obstacle
-                        has a solution attached to it and even the most far-reaching
-                        dreams can be realised with imagination, creativity and
-                        resilience. My passion is to help the people I come in contact
-                        with turn a great idea into a breakthrough experience that can
-                        be seen, touched and felt globally. I see that obstacles are
-                        just opportunities in disguise. Always looking over the next
-                        horizon, I am constantly seeking a chance to be a part of that
-                        one innovation that can change the way people experience the
-                        world. If you want to talk about mental health,skill
-                        development,operational leadership, creative and critical
-                        thinking , I’d love to talk! <a href="#">Contact Me</a>
+                        My personal opinion is, "Artificial Intelligence is transforming the system of our daily life
+                        step by step ". I am a high school student but I have worked with a lot of people in the last 4
+                        years as a software developer. I have solved 1500-plus computer problems using different
+                        languages. Also, I have also contributed on <a href="https://www.github.com/RifatAbrarJowad"
+                            target="_blank">Github</a> daily. Currently, I am working
+                        on Artificial
+                        Intelligence, there I have done many difficult
+                        projects and built some logic for my Robots. On the other hand, now I am writing a book on
+                        Computer Language which will help beginners to understand the difference between multiple
+                        languages. Also, I am planning to startup a software company. In sha allah, this day is not a
+                        long way. I also teach programming you can see my tutorials for free on <a
+                            href="https://www.youtube.com/c/RifatAbrarJowad" target="_blank">YouTube</a>. My always
+                        available for any kind of open-source project and any job opportunity. I’d love to talk! <a
+                            href="#Contact">Contact Me</a>
                     </p>
                 </div>
             </div>
