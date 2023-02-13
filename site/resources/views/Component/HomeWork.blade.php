@@ -50,7 +50,8 @@
                         <p class="card-text text-start" style=" color: black;">
                             This Project uses PHP. This is a CRUD Project which is using Laravel.
                         </p>
-                        <a href="#" class="btn get-project-link">Project Link</a>
+                        <a href="https://github.com/rifatabrarjowad/imageCrudLaravel" target="_blank"
+                            class="btn get-project-link">Project Link</a>
                     </div>
                 </div>
             </div>
